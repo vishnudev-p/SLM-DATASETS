@@ -1,0 +1,280 @@
+{"instruction": "What is the name of company with ID 1?", "input": "", "output": "TechTrend Innovations"}
+{"instruction": "What is the industry of TechTrend Innovations?", "input": "", "output": "Healthcare"}
+{"instruction": "Where is TechTrend Innovations headquartered?", "input": "", "output": "San Francisco"}
+{"instruction": "What is the name of company with ID 2?", "input": "", "output": "Global Solutions"}
+{"instruction": "What is the industry of Global Solutions?", "input": "", "output": "Education"}
+{"instruction": "Where is Global Solutions headquartered?", "input": "", "output": "San Francisco"}
+{"instruction": "What is the name of company with ID 3?", "input": "", "output": "NextGen Enterprises"}
+{"instruction": "What is the industry of NextGen Enterprises?", "input": "", "output": "Technology"}
+{"instruction": "Where is NextGen Enterprises headquartered?", "input": "", "output": "Sydney"}
+{"instruction": "What is the name of company with ID 4?", "input": "", "output": "BrightFuture Inc."}
+{"instruction": "What is the industry of BrightFuture Inc.?", "input": "", "output": "Technology"}
+{"instruction": "Where is BrightFuture Inc. headquartered?", "input": "", "output": "London"}
+{"instruction": "What is the name of company with ID 5?", "input": "", "output": "Quantum Dynamics"}
+{"instruction": "What is the industry of Quantum Dynamics?", "input": "", "output": "Technology"}
+{"instruction": "Where is Quantum Dynamics headquartered?", "input": "", "output": "San Francisco"}
+{"instruction": "What is the name of company with ID 6?", "input": "", "output": "Core Analytics"}
+{"instruction": "What is the industry of Core Analytics?", "input": "", "output": "Manufacturing"}
+{"instruction": "Where is Core Analytics headquartered?", "input": "", "output": "San Francisco"}
+{"instruction": "What is the name of company with ID 7?", "input": "", "output": "Visionary Labs"}
+{"instruction": "What is the industry of Visionary Labs?", "input": "", "output": "Technology"}
+{"instruction": "Where is Visionary Labs headquartered?", "input": "", "output": "San Francisco"}
+{"instruction": "What is the name of company with ID 8?", "input": "", "output": "Pioneer Systems"}
+{"instruction": "What is the industry of Pioneer Systems?", "input": "", "output": "Healthcare"}
+{"instruction": "Where is Pioneer Systems headquartered?", "input": "", "output": "Tokyo"}
+{"instruction": "What is the name of company with ID 9?", "input": "", "output": "Elite Consulting"}
+{"instruction": "What is the industry of Elite Consulting?", "input": "", "output": "Healthcare"}
+{"instruction": "Where is Elite Consulting headquartered?", "input": "", "output": "Tokyo"}
+{"instruction": "What is the name of company with ID 10?", "input": "", "output": "FutureWorks"}
+{"instruction": "What is the industry of FutureWorks?", "input": "", "output": "Manufacturing"}
+{"instruction": "Where is FutureWorks headquartered?", "input": "", "output": "London"}
+{"instruction": "Who is employee John Taylor?", "input": "", "output": "John Taylor works for Elite Consulting."}
+{"instruction": "Who is employee David Johnson?", "input": "", "output": "David Johnson works for TechTrend Innovations."}
+{"instruction": "Who is employee Isabella Johnson?", "input": "", "output": "Isabella Johnson works for Visionary Labs."}
+{"instruction": "Who is employee Michael Davis?", "input": "", "output": "Michael Davis works for BrightFuture Inc.."}
+{"instruction": "Who is employee Isabella Clark?", "input": "", "output": "Isabella Clark works for Pioneer Systems."}
+{"instruction": "Who is employee James Walker?", "input": "", "output": "James Walker works for Visionary Labs."}
+{"instruction": "Who is employee Emma Taylor?", "input": "", "output": "Emma Taylor works for Global Solutions."}
+{"instruction": "Who is employee David Brown?", "input": "", "output": "David Brown works for FutureWorks."}
+{"instruction": "Who is employee Michael Davis?", "input": "", "output": "Michael Davis works for BrightFuture Inc.."}
+{"instruction": "Who is employee David Harris?", "input": "", "output": "David Harris works for Quantum Dynamics."}
+{"instruction": "Who is employee William Lewis?", "input": "", "output": "William Lewis works for Global Solutions."}
+{"instruction": "Who is employee Olivia Davis?", "input": "", "output": "Olivia Davis works for FutureWorks."}
+{"instruction": "Who is employee Olivia Taylor?", "input": "", "output": "Olivia Taylor works for TechTrend Innovations."}
+{"instruction": "Who is employee Emma Clark?", "input": "", "output": "Emma Clark works for Quantum Dynamics."}
+{"instruction": "Who is employee Emma Smith?", "input": "", "output": "Emma Smith works for BrightFuture Inc.."}
+{"instruction": "Who is employee Michael Clark?", "input": "", "output": "Michael Clark works for Elite Consulting."}
+{"instruction": "Who is employee Sophia Harris?", "input": "", "output": "Sophia Harris works for BrightFuture Inc.."}
+{"instruction": "Who is employee James Johnson?", "input": "", "output": "James Johnson works for FutureWorks."}
+{"instruction": "Who is employee Michael Smith?", "input": "", "output": "Michael Smith works for Pioneer Systems."}
+{"instruction": "Who is employee James Walker?", "input": "", "output": "James Walker works for FutureWorks."}
+{"instruction": "Who is employee Sophia Smith?", "input": "", "output": "Sophia Smith works for BrightFuture Inc.."}
+{"instruction": "Who is employee William Brown?", "input": "", "output": "William Brown works for NextGen Enterprises."}
+{"instruction": "Who is employee James Wilson?", "input": "", "output": "James Wilson works for BrightFuture Inc.."}
+{"instruction": "Who is employee Emma Brown?", "input": "", "output": "Emma Brown works for Global Solutions."}
+{"instruction": "Who is employee John Johnson?", "input": "", "output": "John Johnson works for Quantum Dynamics."}
+{"instruction": "Who is employee William Smith?", "input": "", "output": "William Smith works for BrightFuture Inc.."}
+{"instruction": "Who is employee David Harris?", "input": "", "output": "David Harris works for BrightFuture Inc.."}
+{"instruction": "Who is employee John Harris?", "input": "", "output": "John Harris works for Pioneer Systems."}
+{"instruction": "Who is employee William Wilson?", "input": "", "output": "William Wilson works for Global Solutions."}
+{"instruction": "Who is employee Ava Walker?", "input": "", "output": "Ava Walker works for Quantum Dynamics."}
+{"instruction": "Who is employee Sophia Smith?", "input": "", "output": "Sophia Smith works for Pioneer Systems."}
+{"instruction": "Who is employee John Clark?", "input": "", "output": "John Clark works for Pioneer Systems."}
+{"instruction": "Who is employee John Lewis?", "input": "", "output": "John Lewis works for Elite Consulting."}
+{"instruction": "Who is employee David Clark?", "input": "", "output": "David Clark works for TechTrend Innovations."}
+{"instruction": "Who is employee Ava Clark?", "input": "", "output": "Ava Clark works for Core Analytics."}
+{"instruction": "Who is employee Olivia Taylor?", "input": "", "output": "Olivia Taylor works for Elite Consulting."}
+{"instruction": "Who is employee Olivia Davis?", "input": "", "output": "Olivia Davis works for NextGen Enterprises."}
+{"instruction": "Who is employee Isabella Smith?", "input": "", "output": "Isabella Smith works for Elite Consulting."}
+{"instruction": "Who is employee Michael Walker?", "input": "", "output": "Michael Walker works for Global Solutions."}
+{"instruction": "Who is employee Ava Clark?", "input": "", "output": "Ava Clark works for Visionary Labs."}
+{"instruction": "Who is employee John Walker?", "input": "", "output": "John Walker works for BrightFuture Inc.."}
+{"instruction": "Who is employee Sophia Taylor?", "input": "", "output": "Sophia Taylor works for Quantum Dynamics."}
+{"instruction": "Who is employee Sophia Brown?", "input": "", "output": "Sophia Brown works for TechTrend Innovations."}
+{"instruction": "Who is employee James Wilson?", "input": "", "output": "James Wilson works for FutureWorks."}
+{"instruction": "Who is employee James Walker?", "input": "", "output": "James Walker works for Global Solutions."}
+{"instruction": "Who is employee Michael Johnson?", "input": "", "output": "Michael Johnson works for NextGen Enterprises."}
+{"instruction": "Who is employee Michael Smith?", "input": "", "output": "Michael Smith works for Quantum Dynamics."}
+{"instruction": "Who is employee Sophia Walker?", "input": "", "output": "Sophia Walker works for FutureWorks."}
+{"instruction": "Who is employee Olivia Brown?", "input": "", "output": "Olivia Brown works for Elite Consulting."}
+{"instruction": "Who is employee James Harris?", "input": "", "output": "James Harris works for FutureWorks."}
+{"instruction": "Who is employee James Clark?", "input": "", "output": "James Clark works for Elite Consulting."}
+{"instruction": "Who is employee Michael Harris?", "input": "", "output": "Michael Harris works for Core Analytics."}
+{"instruction": "Who is employee William Clark?", "input": "", "output": "William Clark works for Core Analytics."}
+{"instruction": "Who is employee Sophia Harris?", "input": "", "output": "Sophia Harris works for Visionary Labs."}
+{"instruction": "Who is employee John Taylor?", "input": "", "output": "John Taylor works for Elite Consulting."}
+{"instruction": "Who is employee Michael Wilson?", "input": "", "output": "Michael Wilson works for Pioneer Systems."}
+{"instruction": "Who is employee James Davis?", "input": "", "output": "James Davis works for FutureWorks."}
+{"instruction": "Who is employee Olivia Taylor?", "input": "", "output": "Olivia Taylor works for NextGen Enterprises."}
+{"instruction": "Who is employee Michael Harris?", "input": "", "output": "Michael Harris works for Visionary Labs."}
+{"instruction": "Who is employee James Lewis?", "input": "", "output": "James Lewis works for Quantum Dynamics."}
+{"instruction": "Who is employee Michael Walker?", "input": "", "output": "Michael Walker works for Global Solutions."}
+{"instruction": "Who is employee Michael Walker?", "input": "", "output": "Michael Walker works for Visionary Labs."}
+{"instruction": "Who is employee John Walker?", "input": "", "output": "John Walker works for TechTrend Innovations."}
+{"instruction": "Who is employee Olivia Smith?", "input": "", "output": "Olivia Smith works for Quantum Dynamics."}
+{"instruction": "Who is employee Isabella Harris?", "input": "", "output": "Isabella Harris works for Global Solutions."}
+{"instruction": "Who is employee Emma Davis?", "input": "", "output": "Emma Davis works for Visionary Labs."}
+{"instruction": "Who is employee James Walker?", "input": "", "output": "James Walker works for TechTrend Innovations."}
+{"instruction": "Who is employee Olivia Brown?", "input": "", "output": "Olivia Brown works for BrightFuture Inc.."}
+{"instruction": "Who is employee Sophia Johnson?", "input": "", "output": "Sophia Johnson works for Elite Consulting."}
+{"instruction": "Who is employee James Harris?", "input": "", "output": "James Harris works for Quantum Dynamics."}
+{"instruction": "Who is employee David Brown?", "input": "", "output": "David Brown works for NextGen Enterprises."}
+{"instruction": "Who is employee Emma Lewis?", "input": "", "output": "Emma Lewis works for Core Analytics."}
+{"instruction": "Who is employee William Smith?", "input": "", "output": "William Smith works for Pioneer Systems."}
+{"instruction": "Who is employee Ava Harris?", "input": "", "output": "Ava Harris works for Pioneer Systems."}
+{"instruction": "Who is employee Michael Brown?", "input": "", "output": "Michael Brown works for Core Analytics."}
+{"instruction": "Who is employee Michael Wilson?", "input": "", "output": "Michael Wilson works for Elite Consulting."}
+{"instruction": "Who is employee William Lewis?", "input": "", "output": "William Lewis works for BrightFuture Inc.."}
+{"instruction": "Who is employee John Johnson?", "input": "", "output": "John Johnson works for Global Solutions."}
+{"instruction": "Who is employee Isabella Smith?", "input": "", "output": "Isabella Smith works for Global Solutions."}
+{"instruction": "Who is employee John Lewis?", "input": "", "output": "John Lewis works for Quantum Dynamics."}
+{"instruction": "Who is employee David Taylor?", "input": "", "output": "David Taylor works for NextGen Enterprises."}
+{"instruction": "Who is employee Michael Johnson?", "input": "", "output": "Michael Johnson works for Global Solutions."}
+{"instruction": "Who is employee Ava Clark?", "input": "", "output": "Ava Clark works for TechTrend Innovations."}
+{"instruction": "Who is employee Sophia Davis?", "input": "", "output": "Sophia Davis works for TechTrend Innovations."}
+{"instruction": "Who is employee Sophia Brown?", "input": "", "output": "Sophia Brown works for BrightFuture Inc.."}
+{"instruction": "Who is employee Michael Johnson?", "input": "", "output": "Michael Johnson works for FutureWorks."}
+{"instruction": "Who is employee David Davis?", "input": "", "output": "David Davis works for Quantum Dynamics."}
+{"instruction": "Who is employee Sophia Lewis?", "input": "", "output": "Sophia Lewis works for BrightFuture Inc.."}
+{"instruction": "Who is employee Isabella Lewis?", "input": "", "output": "Isabella Lewis works for NextGen Enterprises."}
+{"instruction": "Who is employee Emma Brown?", "input": "", "output": "Emma Brown works for Global Solutions."}
+{"instruction": "Who is employee Ava Taylor?", "input": "", "output": "Ava Taylor works for Quantum Dynamics."}
+{"instruction": "Who is employee James Wilson?", "input": "", "output": "James Wilson works for Elite Consulting."}
+{"instruction": "Who is employee Ava Brown?", "input": "", "output": "Ava Brown works for Quantum Dynamics."}
+{"instruction": "Who is employee William Harris?", "input": "", "output": "William Harris works for Pioneer Systems."}
+{"instruction": "Who is employee Olivia Smith?", "input": "", "output": "Olivia Smith works for Global Solutions."}
+{"instruction": "Who is employee Emma Wilson?", "input": "", "output": "Emma Wilson works for TechTrend Innovations."}
+{"instruction": "Who is employee James Brown?", "input": "", "output": "James Brown works for FutureWorks."}
+{"instruction": "Who is employee David Johnson?", "input": "", "output": "David Johnson works for TechTrend Innovations."}
+{"instruction": "Who is employee David Walker?", "input": "", "output": "David Walker works for Visionary Labs."}
+{"instruction": "Who is employee John Clark?", "input": "", "output": "John Clark works for Pioneer Systems."}
+{"instruction": "What is the project 'Market Analysis' by Ava Walker?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Emma Clark?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cloud Migration' by David Clark?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Financial Audit' by Olivia Brown?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Data Pipeline' by Emma Davis?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Product Launch' by David Johnson?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Smith?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Supply Chain Revamp' by John Walker?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'App Development' by Olivia Davis?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'App Development' by Sophia Walker?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Data Pipeline' by Michael Johnson?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Sophia Harris?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'App Development' by Olivia Davis?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Training Program' by Isabella Smith?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Product Launch' by Michael Harris?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Cloud Migration' by Emma Taylor?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'App Development' by Sophia Johnson?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'AI Optimization' by Michael Smith?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Training Program' by Ava Brown?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Cloud Migration' by David Taylor?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Financial Audit' by David Harris?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Market Analysis' by James Harris?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by John Johnson?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Cloud Migration' by Isabella Smith?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'App Development' by Sophia Taylor?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Data Pipeline' by Olivia Smith?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Data Pipeline' by John Walker?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Training Program' by John Johnson?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'App Development' by James Walker?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Financial Audit' by John Lewis?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Training Program' by Michael Brown?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Data Pipeline' by James Walker?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Training Program' by Ava Clark?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Market Analysis' by Ava Harris?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'App Development' by Ava Brown?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Market Analysis' by David Harris?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'AI Optimization' by James Harris?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'Financial Audit' by John Clark?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'AI Optimization' by James Wilson?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by David Harris?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Cloud Migration' by James Walker?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'AI Optimization' by James Wilson?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by James Walker?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'App Development' by William Lewis?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'App Development' by Sophia Harris?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Data Pipeline' by Olivia Davis?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Product Launch' by Olivia Smith?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Supply Chain Revamp' by William Harris?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Smith?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'App Development' by Michael Walker?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Davis?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'Financial Audit' by David Davis?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Data Pipeline' by John Harris?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'App Development' by James Lewis?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Data Pipeline' by David Clark?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Ava Clark?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by James Walker?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Cloud Migration' by James Walker?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Product Launch' by Olivia Smith?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'App Development' by Ava Walker?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'App Development' by David Harris?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'App Development' by Michael Wilson?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'AI Optimization' by William Clark?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'AI Optimization' by Sophia Brown?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'AI Optimization' by Michael Wilson?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Supply Chain Revamp' by Michael Walker?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Sophia Smith?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'AI Optimization' by James Wilson?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Training Program' by Emma Davis?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'AI Optimization' by Michael Smith?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Product Launch' by John Clark?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Market Analysis' by James Lewis?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Supply Chain Revamp' by Sophia Brown?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Product Launch' by William Smith?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'App Development' by William Brown?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'AI Optimization' by William Harris?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'App Development' by Isabella Clark?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by James Wilson?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Data Pipeline' by James Wilson?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cloud Migration' by David Brown?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'App Development' by William Harris?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Market Analysis' by Michael Walker?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Financial Audit' by Michael Johnson?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'AI Optimization' by James Clark?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Brown?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by David Johnson?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'App Development' by Olivia Brown?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Supply Chain Revamp' by Michael Walker?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'Product Launch' by Michael Brown?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Data Pipeline' by Sophia Johnson?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Product Launch' by Emma Taylor?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'AI Optimization' by Isabella Smith?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Olivia Taylor?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Training Program' by Sophia Smith?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Cloud Migration' by Michael Johnson?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Cloud Migration' by John Clark?", "input": "", "output": "Build data processing pipeline"}
+{"instruction": "What is the project 'Market Analysis' by Olivia Smith?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Market Analysis' by Ava Harris?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Data Pipeline' by Sophia Lewis?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Financial Audit' by James Wilson?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Emma Davis?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Cybersecurity Upgrade' by Olivia Smith?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'AI Optimization' by Michael Wilson?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Market Analysis' by Michael Walker?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Financial Audit' by Ava Harris?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Product Launch' by Isabella Smith?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Data Pipeline' by Ava Clark?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'Product Launch' by William Lewis?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'AI Optimization' by Emma Wilson?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Cloud Migration' by David Brown?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Taylor?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Training Program' by Michael Clark?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Data Pipeline' by David Johnson?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'App Development' by John Clark?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Supply Chain Revamp' by Ava Brown?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'Data Pipeline' by Isabella Johnson?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'Data Pipeline' by John Lewis?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Market Analysis' by Michael Harris?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Training Program' by Michael Harris?", "input": "", "output": "Launch new product line"}
+{"instruction": "What is the project 'AI Optimization' by Sophia Brown?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Data Pipeline' by Michael Johnson?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Market Analysis' by Sophia Smith?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'App Development' by John Johnson?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Supply Chain Revamp' by James Walker?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Financial Audit' by Michael Walker?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'AI Optimization' by Michael Smith?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Financial Audit' by Isabella Harris?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Financial Audit' by Sophia Harris?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Data Pipeline' by Michael Harris?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Training Program' by Michael Clark?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'App Development' by John Lewis?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Product Launch' by David Brown?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Supply Chain Revamp' by John Lewis?", "input": "", "output": "Employee training"}
+{"instruction": "What is the project 'Cloud Migration' by John Walker?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'Financial Audit' by David Taylor?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Supply Chain Revamp' by James Johnson?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'App Development' by Isabella Smith?", "input": "", "output": "Enhance system efficiency"}
+{"instruction": "What is the project 'AI Optimization' by John Taylor?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Market Analysis' by David Brown?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Market Analysis' by John Clark?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'AI Optimization' by Michael Smith?", "input": "", "output": "Review financial records"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Taylor?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'App Development' by James Wilson?", "input": "", "output": "Strengthen security protocols"}
+{"instruction": "What is the project 'Product Launch' by Emma Clark?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'App Development' by Emma Davis?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Market Analysis' by David Davis?", "input": "", "output": "Analyze market trends"}
+{"instruction": "What is the project 'Cloud Migration' by John Taylor?", "input": "", "output": "Migrate to cloud infrastructure"}
+{"instruction": "What is the project 'Cloud Migration' by Olivia Taylor?", "input": "", "output": "Develop mobile application"}
+{"instruction": "What is the project 'Market Analysis' by James Johnson?", "input": "", "output": "Optimize supply chain"}
+{"instruction": "What is the project 'App Development' by Sophia Davis?", "input": "", "output": "Launch new product line"}
